@@ -1,1 +1,2 @@
-This is file is forked from another github.
+This is file is from another github.
+Added a new file.
